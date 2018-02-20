@@ -21,4 +21,5 @@ USB-controlled abritrary pattern generator with data reception and conditional s
  * Look into using DMA for USB IN
  * Periodic stress testing + determine hardware needs
  * Desktop software control for Other useful UART registers (loopback, some possible SPI functionality)
+ * Determine board profile for hardware (# busses, max frequency, etc)
  * Make protocol less verbose, and probably less human readable

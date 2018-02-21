@@ -12,7 +12,7 @@ USB-controlled abritrary pattern generator with data reception and conditional s
  
 # Todo
  * USB CDC IN
- * Simultaneous UART TX (e.g. R485 D+ D-)
+ * Simultaneous UART TX (e.g. RS485 D+ D-)
  * Clock output
  * Desktop software controlled UART pin modes (wired-AND, push-pull, etc)
  * Ensure clocked protocols (SPI, I2C, etc) work correctly

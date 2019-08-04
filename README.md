@@ -1,5 +1,5 @@
 # arbgen (WIP)
-USB-controlled abritrary pattern generator with data reception and conditional statements
+USB-controlled arbitrary pattern generator with data reception and conditional statements
 
 # Done
  * Rough draft of human readable protocol
